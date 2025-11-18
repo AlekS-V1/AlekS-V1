@@ -9,6 +9,21 @@ Passionate about building dynamic websites and scalable systems. Skilled in crea
 
 ## 💻Featured Projects  
 
+ - [ WebStudio ](https://aleks-v1.github.io/goit-markup-hw-06/) -  It combines innovative design, quick performance, and excellent adaptability. Built to current standards, it ensures smooth operation on all devices — from smartphones to desktops. With seamless hover effects, optimized images, modern layout techniques, and a focus on accessibility, the website provides an intuitive, efficient, and visually engaging user experience
+
+ - [ Меблерія (“Mebleria”) ](https://aleks-v1.github.io/13th-element/) -  An interactive online store created with Vite, offering a broad selection of stylish furniture for homes, gardens, and offices. The website features user-friendly navigation, organized product categories, interactive modals, and customer reviews. Where all product, order, and UI data are dynamically managed via Axios API. As the team lead, I contributed to project coordination and developed essential UI sections, including the Header, Hero, Footer, and Furniture Modal.
+
+  ## 🗣️ Languages
+
+![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+
+![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
+
+![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+
+## 📫 How to reach me:  
+
+[LinkedIn](www.linkedin.com/in/oleksandr-vakulin) | [Email](mailto:vlipoq@gmail.com)
 <!--
 **AlekS-V1/AlekS-V1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
