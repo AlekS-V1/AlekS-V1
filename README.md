@@ -1,4 +1,4 @@
-## Hi, 👋 I'm Olexandr Vakulin
+## Hi, 👋 I'm Oleksandr Vakulin
 
  💬 Versatile FullStack Developer | React | Next.js | Node.js |  
 Passionate about building dynamic websites and scalable systems. Skilled in creating interactive UI/UX and integrating RESTful APIs. Quick learner and strong problem solver with a structured, detail-oriented approach. Experienced in both solo and team-based development.
@@ -9,9 +9,9 @@ Passionate about building dynamic websites and scalable systems. Skilled in crea
 
 ## 💻Featured Projects  
 
- - [ WebStudio ](https://aleks-v1.github.io/goit-markup-hw-06/) -  It combines innovative design, quick performance, and excellent adaptability. Built to current standards, it ensures smooth operation on all devices — from smartphones to desktops. With seamless hover effects, optimized images, modern layout techniques, and a focus on accessibility, the website provides an intuitive, efficient, and visually engaging user experience
+ - [ WebStudio ](https://aleks-v1.github.io/goit-markup-hw-06/) —  It combines innovative design, quick performance, and excellent adaptability. Built to current standards, it ensures smooth operation on all devices — from smartphones to desktops. With seamless hover effects, optimized images, modern layout techniques, and a focus on accessibility, the website provides an intuitive, efficient, and visually engaging user experience
 
- - [ Меблерія (“Mebleria”) ](https://aleks-v1.github.io/13th-element/) -  An interactive online store created with Vite, offering a broad selection of stylish furniture for homes, gardens, and offices. The website features user-friendly navigation, organized product categories, interactive modals, and customer reviews. Where all product, order, and UI data are dynamically managed via Axios API. As the team lead, I contributed to project coordination and developed essential UI sections, including the Header, Hero, Footer, and Furniture Modal.
+ - [ Меблерія (“Mebleria”) ](https://aleks-v1.github.io/13th-element/) —  An interactive online store created with Vite, offering a broad selection of stylish furniture for homes, gardens, and offices. The website features user-friendly navigation, organized product categories, interactive modals, and customer reviews. Where all product, order, and UI data are dynamically managed via Axios API. As the team lead, I contributed to project coordination and developed essential UI sections, including the Header, Hero, Footer, and Furniture Modal.
 
   ## 🗣️ Languages
 
