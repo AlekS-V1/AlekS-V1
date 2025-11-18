@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, 👋 I'm Olexandr Vakulin
+
+ 💬 Versatile FullStack Developer | React | Next.js | Node.js |  
+Passionate about building dynamic websites and scalable systems. Skilled in creating interactive UI/UX and integrating RESTful APIs. Quick learner and strong problem solver with a structured, detail-oriented approach. Experienced in both solo and team-based development.
+
+## 🧰 Tech Stack  
+
+</> HTML5 | 🎨 CSS | 🇯🇸‌ JavaScript | 🇹🇸 TypeScript | 🌿 Node.js | ⚛️ React | ⏭️ Next.js | 🍃 MongoDB | 🐬 MySQL
+
+## 💻Featured Projects  
 
 <!--
 **AlekS-V1/AlekS-V1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
