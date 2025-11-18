@@ -15,11 +15,11 @@ Passionate about building dynamic websites and scalable systems. Skilled in crea
 
   ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-![Polish](https://img.shields.io/badge/Polish-A2-lightgrey?style=flat-square)
+![Polish](https://img.shields.io/badge/Polish-B2-lightgrey?style=flat-square)
 
 ## 📫 How to reach me:  
 
