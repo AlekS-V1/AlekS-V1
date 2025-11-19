@@ -25,7 +25,7 @@ Highlights: a modular online furniture platform where all product, order, and UI
 
 ## 📫 How to reach me:  
 
-[LinkedIn](www.linkedin.com/in/oleksandr-vakulin) | [Email](mailto:vlipoq@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/oleksandr-vakulin) | [Email](mailto:vlipoq@gmail.com)
 <!--
 **AlekS-V1/AlekS-V1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
