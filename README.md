@@ -19,11 +19,9 @@ Highlights: a modular online furniture platform where all product, order, and UI
 
   ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-A2-blue?style=flat-square)  ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)  ![Polish](https://img.shields.io/badge/Polish-B1-lightgrey?style=flat-square)  ![Russian](https://img.shields.io/badge/Russian-С2-lightgrey?style=flat-square)
 
-![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
-![Polish](https://img.shields.io/badge/Polish-B1-lightgrey?style=flat-square)
 
 ## 📫 How to reach me:  
 
